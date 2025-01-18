@@ -8,9 +8,7 @@ This project implements an object recognition and counting system using Python. 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -67,22 +65,6 @@ It can be used in various applications such as wildlife monitoring, inventory ma
 
 3. The results, including the recognized objects and their counts, will be displayed and saved to the `output/` directory.
 
-## Examples
-
-Input Image:
-![Input Example](examples/input_example.jpg)
-
-Output Image:
-![Output Example](examples/output_example.jpg)
-
-Sample Output:
-```
-Detected objects:
-- Car: 3
-- Person: 5
-- Bicycle: 2
-```
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
@@ -92,9 +74,6 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
